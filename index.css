@@ -1,0 +1,82 @@
+/*HEADER*/
+.nav1{
+    display: flex;
+    gap: 2rem;
+    justify-content: end;
+    margin-right: 85px;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    color: black;
+}
+
+a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+
+/*MAIN*/
+.img1{
+    height: 300px;
+    width: 500px;
+   margin-top: 200px;
+}
+
+.img2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.buscar1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.botones{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 40px;
+
+}
+
+button{
+    padding: 5px;
+}
+
+.inputt{
+    height: 30px;
+    width: 500px;
+}
+
+/*FOOTER*/
+
+
+
+.footerdisplay{
+    display: flex;
+    margin-top: 14.5rem;
+}
+
+.footer__1{
+    display: flex;
+    gap: 2rem;
+
+}
+
+.footer__2{
+    display: flex;
+    gap: 2rem;
+    margin-left: 60rem;
+}
+
